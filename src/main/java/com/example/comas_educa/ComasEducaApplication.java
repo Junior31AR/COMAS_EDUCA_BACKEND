@@ -8,7 +8,7 @@ public class ComasEducaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ComasEducaApplication.class, args);
-		System.out.println("Running Programa");
+		System.out.println("Running Program");
 	}
 
 }
